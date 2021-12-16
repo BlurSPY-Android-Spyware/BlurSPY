@@ -1,0 +1,2 @@
+# BlurSPY
+BlurSPY app is a very useful cell phone tracking application, which features a number of useful functions. If it is installed on the targeted cell phone, you can intercept all the live calls of the targeted cell phone to record the live calls and save the soundtrack on the web. BlurSPY cell phone monitoring application also gives you access to the contact lists and call logs of the targeted cell phone. 
